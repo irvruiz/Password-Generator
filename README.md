@@ -9,4 +9,4 @@ The following image shows the web application's appearance and functionality:
 
 ```
 
-![demo](.photos/pw-generate.png)
+![demo](.HOMEWORK3/photos/pw-generate.png)
