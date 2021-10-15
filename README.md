@@ -5,9 +5,7 @@ This project is about building a random password generator. With security in min
 
 ## Mock-Up
 
-``
-
 The following image shows the web application's appearance and functionality:
 
-![demo](/photos/pw_generate.png)
+![demo](/photos/pw-generate.png)
 
