@@ -8,4 +8,11 @@ This project is about building a random password generator. With security in min
 The following image shows the web application's appearance and functionality:
 
 ![demo](photos/pw-generate.png)
+![demo](photos/initial-prompt.png)
+![demo](photos/prompt2.png)
+![demo](photos/prompt3.png)
+![demo](photos/prompt4.png)
+![demo](photos/prompt5.png)
+![demo](photos/prompt6.png)
+![demo](photos/final-prompt.png)
 
